@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/CMakeFiles/BioLink_Appli"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/CMakeFiles/BioLink_Appli.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/CMakeFiles/BioLink_Appli-complete.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-build.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-configure.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-download.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-install.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-mkdir.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-patch.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/Appli/src/BioLink_Appli-stamp/BioLink_Appli-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BioLink_Appli"
+		],
+		"name" : "BioLink_Appli"
+	}
+}

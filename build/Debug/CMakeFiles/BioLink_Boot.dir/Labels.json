@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/CMakeFiles/BioLink_Boot"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/CMakeFiles/BioLink_Boot.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/CMakeFiles/BioLink_Boot-complete.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-build.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-configure.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-download.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-install.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-mkdir.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-patch.rule"
+		},
+		{
+			"file" : "/home/jeason/Projects/stm32/BioLink/build/Debug/Boot/src/BioLink_Boot-stamp/BioLink_Boot-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BioLink_Boot"
+		],
+		"name" : "BioLink_Boot"
+	}
+}
